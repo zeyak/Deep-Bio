@@ -1,8 +1,8 @@
-# Deep Learning Applications on Omics Data
+# Deep Learning Applications on Omics Data and Diagnostics
 
 **M.Phil. Thesis | Kadir Has University — Computational Biology & Bioinformatics | 2018**
 
-This repository contains the Jupyter Notebook implementations from my master's thesis. The work applies Softmax Regression, Feed Forward Neural Networks (FFNN), and Long Short-Term Memory (LSTM) networks to four biological and medical datasets, demonstrating how increasing model complexity improves classification accuracy.
+This repository contains the Jupyter Notebook implementations from my master's thesis, [*Deep Learning Applications on Biological Data*](Zeynep_Kurt_MSc_Thesis_Deep_Learning_Biological_Data_2018.pdf). The work applies Softmax Regression, Feed Forward Neural Networks (FFNN), and Long Short-Term Memory (LSTM) networks to four biological and medical datasets, demonstrating how increasing model complexity improves classification accuracy.
 
 **Stack:** Python · TensorFlow · Keras · NumPy · Pandas · Scikit-learn · Matplotlib
 
@@ -69,5 +69,3 @@ jupyter notebook
 ## Background
 
 Completed as part of the M.Phil. program in Computational Biology and Bioinformatics at Kadir Has University, Istanbul, under the supervision of Assoc. Prof. Cem Özen.
-
-**Contact:** zeynep.hitay.akdeniz@gmail.com
