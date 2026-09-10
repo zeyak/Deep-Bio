@@ -2,7 +2,7 @@
 
 **M.Phil. Thesis | Kadir Has University — Computational Biology & Bioinformatics | 2018**
 
-This repository contains the Jupyter Notebook implementations from my master's thesis, [*Deep Learning Applications on Biological Data*](Zeynep_Kurt_MSc_Thesis_Deep_Learning_Biological_Data_2018.pdf). The work applies Softmax Regression, Feed Forward Neural Networks (FFNN), and Long Short-Term Memory (LSTM) networks to four biological and medical datasets, demonstrating how increasing model complexity improves classification accuracy.
+This repository contains the Jupyter Notebook implementations from my master's thesis, [*Deep Learning Applications on Biological Data*](MSc_Thesis_Deep_Learning_Biological_Data_2018.pdf). The work applies Softmax Regression, Feed Forward Neural Networks (FFNN), and Long Short-Term Memory (LSTM) networks to four biological and medical datasets, demonstrating how increasing model complexity improves classification accuracy.
 
 **Stack:** Python · TensorFlow · Keras · NumPy · Pandas · Scikit-learn · Matplotlib
 

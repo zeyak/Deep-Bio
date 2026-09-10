@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it using these metadata."
+title: "Deep learning applications on omics data and diagnostics: notebooks from a master's thesis"
+abstract: >-
+  Jupyter notebook implementations from the master's thesis "Deep Learning
+  Applications on Biological Data" (Kadir Has University, Computational Biology
+  and Bioinformatics, 2018). Softmax regression, feed-forward neural networks
+  and LSTM models are applied to four public biological and medical datasets:
+  Anuran call recordings, thyroid patient records, E. coli protein localisation,
+  and HIV-1 protease cleavage sites.
+type: software
+authors:
+  - given-names: Zeynep
+    family-names: Akdeniz
+    orcid: "https://orcid.org/0000-0002-5279-6077"
+license: MIT
+version: 1.0.0
+date-released: "2026-09-10"
+keywords:
+  - deep learning
+  - neural networks
+  - LSTM
+  - omics data
+  - classification
